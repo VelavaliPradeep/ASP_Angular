@@ -1,0 +1,14 @@
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\bin\Debug\netcoreapp2.1\Angular.deps.json
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\bin\Debug\netcoreapp2.1\Angular.runtimeconfig.json
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\bin\Debug\netcoreapp2.1\Angular.runtimeconfig.dev.json
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\bin\Debug\netcoreapp2.1\Angular.dll
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.csprojAssemblyReference.cache
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.csproj.CoreCompileInputs.cache
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.RazorAssemblyInfo.cache
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.RazorAssemblyInfo.cs
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.AssemblyInfoInputs.cache
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.AssemblyInfo.cs
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.RazorTargetAssemblyInfo.cache
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\bin\Debug\netcoreapp2.1\Angular.pdb
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.dll
+C:\Users\v-bhve\Desktop\angularasp\Angular\Angular\obj\Debug\netcoreapp2.1\Angular.pdb

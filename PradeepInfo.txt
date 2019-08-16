@@ -1,0 +1,9 @@
+Angular ---- Initially Created in ASP.NET Core
+
+
+
+
+
+
+
+Angular7 ------- Created Using cmd prompt as Angular Project
